@@ -1,4 +1,4 @@
-TrustChain- A decentralised voting system made using solidity (ethereum) to conduct elections using blockchain.
+# TrustChain- A decentralised voting system made using solidity (ethereum) to conduct elections using blockchain.
 
 This project was made as final year project by me (Yash) and my teammates. This blockchain based system uses MongoDB, Ganache, Ethereum Testnet, NodeJS to conduct elections.
 The system include 4 actors: SuperAdmin, Admin, Candidates, Voters.
